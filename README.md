@@ -2,8 +2,10 @@
 
 Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Instalar dependencias con:
 
 ```
 npm install
 ```
+
+Para su realizacion se utilizo la liberia socket.io
